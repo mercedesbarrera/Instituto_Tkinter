@@ -1,0 +1,50 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
+
+# Archivos de configuración de IDEs
+.idea/           # PyCharm
+.vscode/         # Visual Studio Code
+*.sublime-*      # Sublime Text
+.atom/           # Atom
+*.swp            # Vim
+
+# Archivos de log
+*.log
+logs/
+
+# Archivos de base de datos local
+*.db
+*.sqlite3
+
+# Archivos de configuración local
+.env
+.env.local
+config.local.py
+
+# Archivos temporales del sistema
+.DS_Store        # macOS
+Thumbs.db        # Windows
+desktop.ini      # Windows
+
+#archivo con anotaciones de siguientes cosas a hacer
+Anotaciones.txt
+
+# Archivos de configuración de IDEs
+.idea/
